@@ -27,9 +27,7 @@ de trabajo reales. Actualmente construyendo mi portafolio técnico.
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dmnlabs-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmnlabs-dev&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Dmnlabs-dev&color=2C3E6B&style=flat)
 
 ---
 
