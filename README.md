@@ -33,6 +33,6 @@ de trabajo reales. Actualmente construyendo mi portafolio técnico.
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-martinez-teleinformatica)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martinez-teleinformatica)
 
 > *"Automatizar no es reemplazar el trabajo — es hacerlo mejor."*
