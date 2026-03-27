@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Daniel Martinez 👋
 
 ### Técnico en Sistemas Teleinformáticos | Automatización | Python | IA Aplicada
 
